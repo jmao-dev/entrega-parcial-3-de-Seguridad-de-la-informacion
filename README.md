@@ -32,3 +32,5 @@ Anteriormente, un escaneo de vulnerabilidades exhaustivo utilizando Nessus confi
 Para vulnerar la máquina usamos el metasploit, se cargó el módulo específico para la vulnerabilidad descubierta en la fase de escaneo y se configuró el entorno para apuntar a la IP de la víctima (10.46.192.165).
 
 ![Target Compromised](images/07_compromise_view.png)
+
+Y con la imagen anterior vemos como puedo ver desde mi navegador lo que ve la maquina, y en la antepasada vemos como pude hacer un shutdown de la maquina remotamente
